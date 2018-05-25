@@ -1,4 +1,4 @@
-# Sci Chicken
+# 科技改变生活xD
 
 A PUBG pcap playback system that does not hog CPU/GPU, works with version 3.7.33
 
@@ -27,6 +27,11 @@ yum install git;git clone https://github.com/794959818/PUBG-Radar-Onekey.git; ch
 Local computer using SSTAP connection
 
 Watching address  serverIP:20086/
+
+重新启动PUBG-雷达的命令
+```bash
+cd /root/pubgradar;. restart.sh
+```
 
 ## Hey 老外
 Suck my dick xD
