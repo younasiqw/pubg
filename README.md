@@ -27,3 +27,6 @@ yum install git;git clone https://github.com/794959818/PUBG-Radar-Onekey.git; ch
 Local computer using SSTAP connection
 
 Watching address  serverIP:20086/
+
+## Hey 老外
+Suck my dick xD
